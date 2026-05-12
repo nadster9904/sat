@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sat.gob.mx	TRUE	/app/qr	FALSE	1999999999	ZNPCQ003-34323700	915637b0
+siat.sat.gob.mx	TRUE	/	FALSE	1999999999	JSESSIONID	HpAVeDA5XBLX_zJALh1qU4olI1r8-_FJREeMUVRqJdExKGr1CjK2!1456233704!1778476658745
+siat.sat.gob.mx	TRUE	/	FALSE	1999999999	ACE-SIAT-PRO-MOD1	4227947018.30755.0000
+siat.sat.gob.mx	TRUE	/	FALSE	1999999999	siat.sat.gob.mx_siatauth.sat.gob.mx	1547450378.47873.0000
+
